@@ -4,12 +4,12 @@ smlymailer is a script that sends email notifications when your SMLY wallet send
 
 ## Installation
 
-smlymailer is written in PHP and uses composer to manage dependencies. 
+This script is written in PHP and uses composer to manage dependencies. 
 
     git clone https://github.com/Ingimarsson/smlymailer.git
     composer install
 
-Create a settings and configure your wallet and mail account.
+Create a settings file and configure your wallet and mail account.
 
     cp example.settings.php settings.php
 
