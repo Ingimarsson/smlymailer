@@ -21,4 +21,4 @@ To run the script every 10 minutes you can add the following line to your cronta
 
 Here is an example email sent from this script.
 
-![][example.png]
+![](example.png)
