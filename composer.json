@@ -1,0 +1,6 @@
+{
+  "require": {
+    "denpa/php-bitcoinrpc": "^2.1",
+    "phpmailer/phpmailer": "^6.1"
+  }
+}
