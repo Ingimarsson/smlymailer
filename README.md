@@ -17,4 +17,8 @@ To run the script every 10 minutes you can add the following line to your cronta
 
     */10 * * * * /usr/bin/php /path/to/smlymailer/mailer.php
 
+## Example
 
+Here is an example email sent from this script.
+
+![][example.png]
